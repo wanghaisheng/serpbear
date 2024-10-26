@@ -1,6 +1,6 @@
 ![SerpBear](https://i.imgur.com/0S2zIH3.png)
 
-# SerpBear
+# shopconna SerpBear
 
 ![Codacy Badge](https://app.codacy.com/project/badge/Grade/7e7a0030c3f84c6fb56a3ce6273fbc1d) ![GitHub](https://img.shields.io/github/license/towfiqi/serpbear) ![GitHub package.json version](https://img.shields.io/github/package-json/v/towfiqi/serpbear) ![Docker Pulls](https://img.shields.io/docker/pulls/towfiqi/serpbear)
 
